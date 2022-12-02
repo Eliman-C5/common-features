@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.subtitles {
+  font-size: 28px;
+}
